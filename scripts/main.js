@@ -18,19 +18,3 @@ function initMap() {
       }
     });
   }
-
-  // Shows the current time and a welcome message to a visitor 
-    // var today = new Date;
-    //   var hourNow = today.getHours();
-    //   var greeting;
-    //   var currentTime = today.toLocaleTimeString();
-
-    //   if (hourNow > 18) {
-    //     greeting = 'Good evening!';
-    //   } else if (hourNow > 12) {
-    //     greeting = 'Good afternoon!';
-    //   } else if (hourNow > 0) {
-    //     greeting = 'Welcome!';
-    //   }
-    // document.write('<h3>' + greeting + ' The time is now ' + currentTime + '.' + '</h3>');
-  
